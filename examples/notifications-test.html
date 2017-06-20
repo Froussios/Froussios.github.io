@@ -24,6 +24,9 @@
         if (permission === "granted") {
           var notification = new Notification("Hi there!");
         }
+        else {
+          append("Notification not permitted.");
+        }
       });
     }
   </script>
