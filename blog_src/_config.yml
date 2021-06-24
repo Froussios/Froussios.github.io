@@ -23,7 +23,7 @@ title: Bits of experience
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced software engineer, who loves building things more than he cares
   if you'll use them.
-baseurl: "" # TODO add the subpath of your site /blog
+baseurl: "/blog" # TODO add the subpath of your site /blog
 url: "blog.froussios.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChrisFroussios
 github_username: Froussios
