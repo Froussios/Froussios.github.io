@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Kraken trades"
-date:   2021-06-27 21:45:01 +0200
-categories: winning
+date:   2021-06-27 21:30:01 +0200
+categories: Kranen Google sheets
 ---
 
 I'm one of those people. I shifted crypto around while it was bubbling.
